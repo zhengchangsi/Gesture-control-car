@@ -1,0 +1,4 @@
+"STARTUP.obj",
+"Gesture control.obj" 
+TO "Gesture control" 
+RAMSIZE(256) 

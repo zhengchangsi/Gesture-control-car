@@ -1,0 +1,4 @@
+"STARTUP.obj",
+"Car Receive.obj" 
+TO "Car Receive" 
+RAMSIZE(256) 
